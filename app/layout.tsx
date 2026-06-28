@@ -44,11 +44,15 @@ export default function RootLayout({
           <div className="flex justify-center">
             <NavigationMenu>
               <NavigationMenuList>
+
                 <NavigationMenuItem>
-
                     <NavigationMenuLink href="/home">Home</NavigationMenuLink>
-
                 </NavigationMenuItem>
+
+                <NavigationMenuItem>
+                    <NavigationMenuLink href="/posts">Posts</NavigationMenuLink>
+                </NavigationMenuItem>
+
               </NavigationMenuList>
             </NavigationMenu>
           </div>

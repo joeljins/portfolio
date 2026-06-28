@@ -55,7 +55,7 @@
   --card-foreground: oklch(69.507% 0.01652 17.295);    /* Text color inside <Card> components */
   --popover: oklch(54.942% 0.22095 28.778);                /* Background of navbar dropdowns */
   --popover-foreground: oklch(96.479% 0.21188 110.946);   /* Text color inside navbar dropdowns */
-  --primary: oklch(54.03% 0.24423 328.314);                          /* Main button/accent background color (e.g. <Button variant="default">) */
+  --primary: oklch(44.797% 0.14905 257.851);                          /* Main button/accent background color (e.g. <Button variant="default">) */
   --primary-foreground: oklch(0.985 0 0);              /* Text/icon color on top of primary-colored elements */
   --secondary: oklch(0.97 0 0);                         /* Secondary button/badge background */
   --secondary-foreground: oklch(0.205 0 0);            /* Text color on secondary-colored elements */
